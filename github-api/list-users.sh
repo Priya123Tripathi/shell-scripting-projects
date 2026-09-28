@@ -1,4 +1,8 @@
 #!/bin/bash
+########
+#purpose- this repo is used to get the list of the people have access toh the organisation
+#username-Priya123Tripathi
+#########
 
 # GitHub API URL
 API_URL="https://api.github.com"
